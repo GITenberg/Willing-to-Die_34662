@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/272
     wikipedia: http://en.wikipedia.org/wiki/Sheridan_Le_Fanu
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34662#Willing-to-Die
 gutenberg_issued: '2010-12-15'
 gutenberg_type: Text
 identifiers:
